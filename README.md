@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<h1 align="center">Hi 👋, I'm Shubham!</h1>
+<br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jindal2209&show_icons=true&theme=radical)
 <br />
