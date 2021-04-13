@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jindal2209)
 <br />
 
@@ -16,6 +15,8 @@
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
 
+<!--
+**jindal2209/jindal2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
