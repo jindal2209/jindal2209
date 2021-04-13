@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jindal2209)
+![Github stats](https://github-readme-stats.vercel.app/api?username=jindal2209&show_icons=true&theme=radical)
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
