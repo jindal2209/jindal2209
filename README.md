@@ -37,6 +37,9 @@
 	<a href="https://www.djangoproject.com" target="_blank"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
 			alt="django" width="40" height="40" /> </a> &nbsp;
+	<a href="https://www.djangoproject.com" target="_blank"> <img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"
+			alt="django" width="40" height="40" /> </a> &nbsp;
 	<a href="https://aws.amazon.com/" target="_blank"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
 			alt="aws" width="40" height="40" /> </a> &nbsp;
